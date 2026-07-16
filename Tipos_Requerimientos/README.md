@@ -20,8 +20,11 @@ Se identificaron, redactaron y clasificaron los requerimientos del sistema en tr
 ---
 
 ## Archivos del entregable
-- 📄 `CP2_Tipos_Requerimientos_GrupoX.pdf`
-- 📄 `CP2_Tipos_Requerimientos_GrupoX.docx`
+- 📄 CP2_Tipos_Requerimientos_Grupo1.pdf[Fundamentos de la Ingeniería de Requerimientos.docx.pdf](https://github.com/user-attachments/files/30073779/Fundamentos.de.la.Ingenieria.de.Requerimientos.docx.pdf)
+
+- 📄 CP2_Tipos_Requerimientos_Grupo1.docx[Fundamentos de la Ingeniería de Requerimientos.docx](https://github.com/user-attachments/files/30073782/Fundamentos.de.la.Ingenieria.de.Requerimientos.docx)
+
+
 
 ---
 
